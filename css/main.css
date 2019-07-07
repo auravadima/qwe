@@ -540,10 +540,6 @@ td, th {
   font-style: italic;
 }
 
-.text-white {
-  color: black !important;
-}
-
 .transition {
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
